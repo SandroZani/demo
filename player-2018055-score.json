@@ -1,0 +1,102 @@
+{
+  "Timestamp": "2018-09-16T16:11:04+01:00",
+  "PlayerID": "2018055",
+  "Par": {
+    "Out": "35",
+    "In": "36",
+    "Total": "71",
+    "Holes": [
+      {
+        "HoleID": "1",
+        "HoleValue": "3"
+      },
+      {
+        "HoleID": "2",
+        "HoleValue": "7"
+      },
+      {
+        "HoleID": "3",
+        "HoleValue": "7"
+      },
+      {
+        "HoleID": "4",
+        "HoleValue": "7"
+      }
+    ]
+  },
+  "Round1": {
+    "Out": "35",
+    "In": "36",
+    "Total": "71",
+    "Holes": [
+      {
+        "HoleID": "1",
+        "HoleValue": "5",
+        "StatusHole": "1"
+      },
+      {
+        "HoleID": "2",
+        "HoleValue": "4",
+        "StatusHole": "-2"
+      },
+      {
+        "HoleID": "3",
+        "HoleValue": "4",
+        "StatusHole": "-2"
+      },
+      {
+        "HoleID": "4",
+        "HoleValue": "4",
+        "StatusHole": "-2"
+      }
+    ]
+  },
+  "Round2": {
+    "Out": "31",
+    "In": "36",
+    "Total": "67",
+    "Holes": [
+      {
+        "HoleID": "1",
+        "HoleValue": "5"
+      },
+      {
+        "HoleID": "2",
+        "HoleValue": "7",
+        "StatusHole": "-2"
+      }
+    ]
+  },
+  "Round3": {
+    "Out": "35",
+    "In": "36",
+    "Total": "71",
+    "Holes": [
+      {
+        "HoleID": "2",
+        "HoleValue": "5"
+      },
+      {
+        "HoleID": "3",
+        "HoleValue": "7",
+        "StatusHole": "-2"
+      }
+    ]
+  },
+  "Round4": {
+    "Out": "35",
+    "In": "36",
+    "Total": "71",
+    "Holes": [
+      {
+        "HoleID": "2",
+        "HoleValue": "5"
+      },
+      {
+        "HoleID": "3",
+        "HoleValue": "7",
+        "StatusHole": "-2"
+      }
+    ]
+  }
+}
