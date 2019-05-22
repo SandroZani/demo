@@ -64,7 +64,7 @@
       "OldWinner": "false",
       "IsAmateur": "false"
     },
-	{
+    {
       "ID": "3556763",
       "Rank": "4",
       "Position": "T2",
@@ -106,7 +106,7 @@
       "OldWinner": "false",
       "IsAmateur": "true"
     },
-	  {
+    {
       "ID": "3556766",
       "Rank": "6",
       "Position": "6",
@@ -127,7 +127,7 @@
       "OldWinner": "true",
       "IsAmateur": "true"
     },
-	  {
+    {
       "ID": "3556767",
       "Rank": "7",
       "Position": "7",
@@ -147,6 +147,6 @@
       "Total": "373",
       "OldWinner": "false",
       "IsAmateur": "false"
-    },
+    }
   ]
 }
