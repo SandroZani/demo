@@ -4,9 +4,9 @@
 	"Rounds": [
 		{
 			"RoundID": "Par",
-			"Out": 35,
-			"In": 36,
-			"Total": 71,
+			"Out": 45,
+			"In": 46,
+			"Total": 92,
 			"Holes": [
 			  {
 				"HoleID": 1,
@@ -84,9 +84,9 @@
 		},
 		{
 			"RoundID": "R1",
-			"Out": 35,
-			"In": 36,
-			"Total": 71,
+			"Out": 45,
+			"In": 46,
+			"Total": 92,
 			"Holes": [
 			  {
 				"HoleID": 1,
