@@ -16,7 +16,7 @@
                "LastName":"Lampert",
                "FullName":"K. Lampert",
                "CountryISO":"GER",
-               "CountyName":"Germany"
+               "CountryName":"Germany"
             },
             {
                "OrderGroup":"2",
@@ -27,7 +27,7 @@
                "LastName":"Thana",
                "FullName":"P. Thana",
                "CountryISO":"USA",
-               "CountyName":"United States"
+               "CountryName":"United States"
             },
             {
                "OrderGroup":"3",
@@ -57,7 +57,7 @@
                "LastName":"Scalabrini",
                "FullName":"F. Scalabrini",
                "CountryISO":"ITA",
-               "CountyName":"Italy"
+               "CountryName":"Italy"
             },
             {
                "OrderGroup":"2",
@@ -68,7 +68,7 @@
                "LastName":"Hall",
                "FullName":"G. Hall",
                "CountryISO":"SUI",
-               "CountyName":"Suisse"
+               "CountryName":"Suisse"
             },
             {
                "OrderGroup":"3",
@@ -79,7 +79,7 @@
                "LastName":"Boutier",
                "FullName":"C. Boutier",
                "CountryISO":"FRA",
-               "CountyName":"France"
+               "CountryName":"France"
             }
          ]
       },
@@ -98,7 +98,7 @@
                "LastName":"Scalabrini",
                "FullName":"F. Scalabrini",
                "CountryISO":"ITA",
-               "CountyName":"Italy"
+               "CountryName":"Italy"
             },
             {
                "OrderGroup":"2",
@@ -109,7 +109,7 @@
                "LastName":"Hall",
                "FullName":"G. Hall",
                "CountryISO":"SUI",
-               "CountyName":"Suisse"
+               "CountryName":"Suisse"
             },
             {
                "OrderGroup":"3",
@@ -120,7 +120,7 @@
                "LastName":"Boutier",
                "FullName":"C. Boutier",
                "CountryISO":"FRA",
-               "CountyName":"France"
+               "CountryName":"France"
             }
          ]
       }
