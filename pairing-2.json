@@ -16,7 +16,7 @@
                "LastName":"Liu",
                "FullName":"L. Liu",
                "CountryISO":"JAP",
-               "CountyName":"Japan"
+               "CountryName":"Japan"
             },
             {
                "OrderGroup":"2",
@@ -27,7 +27,7 @@
                "LastName":"Rossi",
                "FullName":"P. Rossi",
                "CountryISO":"ITA",
-               "CountyName":"Itay"
+               "CountryName":"Itay"
             },
             {
                "OrderGroup":"3",
@@ -57,7 +57,7 @@
                "LastName":"Rossi",
                "FullName":"P. Rossi",
                "CountryISO":"ITA",
-               "CountyName":"Italy"
+               "CountryName":"Italy"
             },
             {
                "OrderGroup":"2",
@@ -68,7 +68,7 @@
                "LastName":"Hall",
                "FullName":"G. Hall",
                "CountryISO":"SUI",
-               "CountyName":"Suisse"
+               "CountryName":"Suisse"
             },
             {
                "OrderGroup":"3",
@@ -79,7 +79,7 @@
                "LastName":"Boutier",
                "FullName":"C. Boutier",
                "CountryISO":"FRA",
-               "CountyName":"France"
+               "CountryName":"France"
             }
          ]
       }
