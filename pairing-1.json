@@ -1,0 +1,128 @@
+{
+   "Timestamp":"2018-09-16T16:11:04+01:00",
+   "Groups":[
+      {
+         "ID":"1",
+         "StartHour":"8h 45",
+         "StartHole":"4",
+         "StatusHole":"+1",
+         "Players":[
+            {
+               "OrderGroup":"1",
+               "ID":"2345671",
+               "PathImg":"/DAM/folderId/sourcefile.jpg",
+               "LinkToPage":"/player/ID",
+               "FirstName":"Kim",
+               "LastName":"Lampert",
+               "FullName":"K. Lampert",
+               "CountryISO":"GER",
+               "CountyName":"Germany"
+            },
+            {
+               "OrderGroup":"2",
+               "ID":"2345541",
+               "PathImg":"/DAM/folderId/sourcefile.jpg",
+               "LinkToPage":"/player/ID",
+               "FirstName":"Paola",
+               "LastName":"Thana",
+               "FullName":"P. Thana",
+               "CountryISO":"USA",
+               "CountyName":"United States"
+            },
+            {
+               "OrderGroup":"3",
+               "ID":"1243894",
+               "PathImg":"/DAM/folderId/sourcefile.jpg",
+               "LinkToPage":"/player/ID",
+               "FirstName":"Carla",
+               "LastName":"Chevalier",
+               "FullName":"C. Chevalier",
+               "CountryISO":"FRA",
+               "CountryName":"France"
+            }
+         ]
+      },
+      {
+         "ID":"2",
+         "StartHour":"10h 20",
+         "StartHole":"18",
+         "StatusHole":"+1",
+         "Players":[
+            {
+               "OrderGroup":"1",
+               "ID":"2345431",
+               "PathImg":"/DAM/folderId/sourcefile.jpg",
+               "LinkToPage":"/player/ID",
+               "FirstName":"Fabrizia",
+               "LastName":"Scalabrini",
+               "FullName":"F. Scalabrini",
+               "CountryISO":"ITA",
+               "CountyName":"Italy"
+            },
+            {
+               "OrderGroup":"2",
+               "ID":"5467341",
+               "PathImg":"/DAM/folderId/sourcefile.jpg",
+               "LinkToPage":"/player/ID",
+               "FirstName":"Gaia",
+               "LastName":"Hall",
+               "FullName":"G. Hall",
+               "CountryISO":"SUI",
+               "CountyName":"Suisse"
+            },
+            {
+               "OrderGroup":"3",
+               "ID":"1276686",
+               "PathImg":"/DAM/folderId/sourcefile.jpg",
+               "LinkToPage":"/player/ID",
+               "FirstName":"Carla",
+               "LastName":"Boutier",
+               "FullName":"C. Boutier",
+               "CountryISO":"FRA",
+               "CountyName":"France"
+            }
+         ]
+      },
+      {
+         "ID":"2",
+         "StartHour":"10h 20",
+         "StartHole":"18",
+         "StatusHole":"+1",
+         "Players":[
+            {
+               "OrderGroup":"1",
+               "ID":"2345431",
+               "PathImg":"/DAM/folderId/sourcefile.jpg",
+               "LinkToPage":"/player/ID",
+               "FirstName":"Fabrizia",
+               "LastName":"Scalabrini",
+               "FullName":"F. Scalabrini",
+               "CountryISO":"ITA",
+               "CountyName":"Italy"
+            },
+            {
+               "OrderGroup":"2",
+               "ID":"5467341",
+               "PathImg":"/DAM/folderId/sourcefile.jpg",
+               "LinkToPage":"/player/ID",
+               "FirstName":"Gaia",
+               "LastName":"Hall",
+               "FullName":"G. Hall",
+               "CountryISO":"SUI",
+               "CountyName":"Suisse"
+            },
+            {
+               "OrderGroup":"3",
+               "ID":"1276686",
+               "PathImg":"/DAM/folderId/sourcefile.jpg",
+               "LinkToPage":"/player/ID",
+               "FirstName":"Carla",
+               "LastName":"Boutier",
+               "FullName":"C. Boutier",
+               "CountryISO":"FRA",
+               "CountyName":"France"
+            }
+         ]
+      }
+   ]
+}
