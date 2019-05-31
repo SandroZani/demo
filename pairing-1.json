@@ -5,7 +5,7 @@
          "ID":"1",
          "StartHour":"8h 45",
          "StartHole":"4",
-         "StatusHole":+1,
+         "StatusHole":1,
          "Players":[
             {
                "OrderGroup":"1",
