@@ -89,8 +89,8 @@
       },
       {
          "ID":"2",
-         "StartHour":"10h 20",
-         "AdjustedStartHour":10,
+         "StartHour":"18h 20",
+         "AdjustedStartHour":18,
          "AdjustedStartMinute":20,
          "StartHole":"18",
          "StatusHole":null,
