@@ -5,7 +5,7 @@
          "ID":"1",
          "StartHour":"16h 00",
          "AdjustedStartHour":16,
-         "AdjustedStartMinute":00,
+         "AdjustedStartMinute":0,
          "StartHole":"7",
          "StatusHole":null,
          "Players":[
