@@ -4,8 +4,10 @@
       {
          "ID":"1",
          "StartHour":"11h 45",
+         "AdjustedStartHour":11,
+         "AdjustedStartMinute":45,
          "StartHole":4,
-         "StatusHole":1,
+         "StatusHole":null,
          "Players":[
             {
                "OrderGroup":"1",
@@ -45,8 +47,10 @@
       {
          "ID":"2",
          "StartHour":"12h 20",
+         "AdjustedStartHour":12,
+         "AdjustedStartMinute":20,
          "StartHole":"18",
-         "StatusHole":-1,
+         "StatusHole":null,
          "Players":[
             {
                "OrderGroup":"1",
