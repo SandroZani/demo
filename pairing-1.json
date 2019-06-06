@@ -100,9 +100,9 @@
                "ID":"2345431",
                "PathImg":"/DAM/folderId/sourcefile.jpg",
                "LinkToPage":"/player/ID",
-               "FirstName":"Fabrizia",
-               "LastName":"Scalabrini",
-               "FullName":"F. Scalabrini",
+               "FirstName":"Fausta",
+               "LastName":"Rossi",
+               "FullName":"F. Rossi",
                "CountryISO":"ITA",
                "CountryName":"Italy"
             },
@@ -112,9 +112,9 @@
                "PathImg":"/DAM/folderId/sourcefile.jpg",
                "LinkToPage":"/player/ID",
                "FirstName":"Gaia",
-               "LastName":"Hall",
-               "FullName":"G. Hall",
-               "CountryISO":"SUI",
+               "LastName":"Rodriguez",
+               "FullName":"G. Rodriguez",
+               "CountryISO":"COL",
                "CountryName":"Suisse"
             },
             {
@@ -122,9 +122,52 @@
                "ID":"1276686",
                "PathImg":"/DAM/folderId/sourcefile.jpg",
                "LinkToPage":"/player/ID",
+               "FirstName":"Kay",
+               "LastName":"Frig",
+               "FullName":"K. Frig",
+               "CountryISO":"GER",
+               "CountryName":"France"
+            }
+         ]
+      },
+      {
+         "ID":"4",
+         "StartHour":"8h 45",
+         "AdjustedStartHour":8,
+         "AdjustedStartMinute":45,
+         "StartHole":4,
+         "StatusHole":"F",
+         "Players":[
+            {
+               "OrderGroup":"1",
+               "ID":2345671,
+               "PathImg":"/DAM/folderId/sourcefile.jpg",
+               "LinkToPage":"/player/ID",
+               "FirstName":"Kim",
+               "LastName":"Lampert",
+               "FullName":"K. Lampert",
+               "CountryISO":"GER",
+               "CountryName":"Germany"
+            },
+            {
+               "OrderGroup":"2",
+               "ID":2345541,
+               "PathImg":"/DAM/folderId/sourcefile.jpg",
+               "LinkToPage":"/player/ID",
+               "FirstName":"Paola",
+               "LastName":"Thana",
+               "FullName":"P. Thana",
+               "CountryISO":"USA",
+               "CountryName":"United States"
+            },
+            {
+               "OrderGroup":"3",
+               "ID":1243894,
+               "PathImg":"/DAM/folderId/sourcefile.jpg",
+               "LinkToPage":"/player/ID",
                "FirstName":"Carla",
-               "LastName":"Boutier",
-               "FullName":"C. Boutier",
+               "LastName":"Chevalier",
+               "FullName":"C. Chevalier",
                "CountryISO":"FRA",
                "CountryName":"France"
             }
