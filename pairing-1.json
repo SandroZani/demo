@@ -1,1080 +1,1725 @@
-{
-   "Timestamp":"2018-09-16T16:11:04+01:00",
-   "Groups":[
-      {
+{  
+   "Timestamp":"2018-09-13T16:04:10+01:00",
+   "Groups":[  
+      {  
          "ID":"1",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
+         "StartHole":"1",
+         "AdjustedStartMinute":30,
+         "AdjustedStartHour":7,
+         "Players":[  
+            {  
+               "ID":"88276",
                "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
-               "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
-               "CountryISO":"USA",
-               "CountryName":"United States"
-            },
-            {
-               "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
-            }
-         ]
-      },
-      {
-         "ID":"2",
-         "StartHour":"10h 20",
-         "AdjustedStartHour":10,
-         "AdjustedStartMinute":20,
-         "StartHole":"18",
-         "StatusHole":null,
-         "Players":[
-            {
-               "OrderGroup":"1",
-               "ID":2345431,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Fabrizia",
-               "LastName":"Scalabrini",
-               "FullName":"F. Scalabrini",
-               "CountryISO":"ITA",
-               "CountryName":"Italy"
-            },
-            {
-               "OrderGroup":"2",
-               "ID":5467341,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Gaia",
-               "LastName":"Hall",
-               "FullName":"G. Hall",
-               "CountryISO":"SUI",
-               "CountryName":"Suisse"
-            },
-            {
-               "OrderGroup":"3",
-               "ID":1276686,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Boutier",
-               "FullName":"C. Boutier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
-            }
-         ]
-      },
-      {
-         "ID":"3",
-         "StartHour":"18h 20",
-         "AdjustedStartHour":18,
-         "AdjustedStartMinute":20,
-         "StartHole":"18",
-         "StatusHole":null,
-         "Players":[
-            {
-               "OrderGroup":"1",
-               "ID":"2345431",
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Fausta",
-               "LastName":"Rossi",
-               "FullName":"F. Rossi",
-               "CountryISO":"ITA",
-               "CountryName":"Italy"
-            },
-            {
-               "OrderGroup":"2",
-               "ID":"5467341",
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Gaia",
-               "LastName":"Rodriguez",
-               "FullName":"G. Rodriguez",
+               "FirstName":"Mariajo",
+               "LastName":"Uribe",
+               "FullName":"M.Uribe",
                "CountryISO":"COL",
-               "CountryName":"Suisse"
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
-               "OrderGroup":"3",
-               "ID":"1276686",
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kay",
-               "LastName":"Frig",
-               "FullName":"K. Frig",
-               "CountryISO":"GER",
-               "CountryName":"France"
-            }
-         ]
-      },
-      {
-         "ID":"4",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
-               "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
+            {  
+               "ID":"98868",
                "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
+               "FirstName":"Caroline",
+               "LastName":"Inglis",
+               "FullName":"C.Inglis",
                "CountryISO":"USA",
-               "CountryName":"United States"
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"98054",
                "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
+               "FirstName":"Mirim",
+               "LastName":"Lee",
+               "FullName":"M.Lee",
+               "CountryISO":"KOR",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             }
-         ]
+         ],
+         "StatusHole":"",
+         "StartHour":"7h 30"
       },
-      {
+      {  
+         "ID":"3",
+         "StartHole":"1",
+         "AdjustedStartMinute":41,
+         "AdjustedStartHour":7,
+         "Players":[  
+            {  
+               "ID":"87949",
+               "OrderGroup":"1",
+               "FirstName":"Haeji",
+               "LastName":"Kang",
+               "FullName":"H.Kang",
+               "CountryISO":"KOR",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98788",
+               "OrderGroup":"2",
+               "FirstName":"Wichanee",
+               "LastName":"Meechai",
+               "FullName":"W.Meechai",
+               "CountryISO":"THA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"99576",
+               "OrderGroup":"3",
+               "FirstName":"Kanyalak",
+               "LastName":"Preedasuttijit",
+               "FullName":"K.Preedasuttijit",
+               "CountryISO":"THA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"7h 41"
+      },
+      {  
          "ID":"5",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
+         "StartHole":"1",
+         "AdjustedStartMinute":52,
+         "AdjustedStartHour":7,
+         "Players":[  
+            {  
+               "ID":"82896",
                "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
+               "FirstName":"Ashleigh",
+               "LastName":"Buhai",
+               "FullName":"A.Buhai",
+               "CountryISO":"RSA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"98813",
                "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
-               "CountryISO":"USA",
-               "CountryName":"United States"
+               "FirstName":"Hannah",
+               "LastName":"Green",
+               "FullName":"H.Green",
+               "CountryISO":"AUS",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"82867",
                "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
-            }
-         ]
-      },
-      {
-         "ID":"6",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
-               "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
-               "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
+               "FirstName":"Jane",
+               "LastName":"Park",
+               "FullName":"J.Park",
                "CountryISO":"USA",
-               "CountryName":"United States"
-            },
-            {
-               "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             }
-         ]
+         ],
+         "StatusHole":"",
+         "StartHour":"7h 52"
       },
-      {
+      {  
          "ID":"7",
-         "StartHour":"8h 45",
+         "StartHole":"1",
+         "AdjustedStartMinute":3,
          "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
+         "Players":[  
+            {  
+               "ID":"98843",
                "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
+               "FirstName":"Hae-Ran",
+               "LastName":"Ryu",
+               "FullName":"H.Ryu",
+               "CountryISO":"KOR",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"80144",
                "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
-               "CountryISO":"USA",
-               "CountryName":"United States"
+               "FirstName":"Alena",
+               "LastName":"Sharp",
+               "FullName":"A.Sharp",
+               "CountryISO":"CAN",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"98781",
                "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
+               "FirstName":"Pannarat",
+               "LastName":"Thanapolboonyaras",
+               "FullName":"P.Thanapolboonyaras",
+               "CountryISO":"THA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             }
-         ]
+         ],
+         "StatusHole":"",
+         "StartHour":"8h 3"
       },
-      {
-         "ID":"8",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
-               "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
-               "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
-               "CountryISO":"USA",
-               "CountryName":"United States"
-            },
-            {
-               "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
-            }
-         ]
-      },
-      {
+      {  
          "ID":"9",
-         "StartHour":"8h 45",
+         "StartHole":"1",
+         "AdjustedStartMinute":14,
          "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
+         "Players":[  
+            {  
+               "ID":"82817",
                "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
+               "FirstName":"Sarah Jane",
+               "LastName":"Smith",
+               "FullName":"S.Smith",
+               "CountryISO":"AUS",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"98811",
                "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
-               "CountryISO":"USA",
-               "CountryName":"United States"
+               "FirstName":"Anne",
+               "LastName":"Van Dam",
+               "FullName":"A.Van Dam",
+               "CountryISO":"NED",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"98237",
                "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
+               "FirstName":"Yu",
+               "LastName":"Liu",
+               "FullName":"Y.Liu",
+               "CountryISO":"CHN",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             }
-         ]
+         ],
+         "StatusHole":"",
+         "StartHour":"8h 14"
       },
-      {
-         "ID":"10",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
-               "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
-               "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
-               "CountryISO":"USA",
-               "CountryName":"United States"
-            },
-            {
-               "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
-            }
-         ]
-      },
-      {
+      {  
          "ID":"11",
-         "StartHour":"8h 45",
+         "StartHole":"1",
+         "AdjustedStartMinute":25,
          "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
+         "Players":[  
+            {  
+               "ID":"93275",
                "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
+               "FirstName":"Jeong Eun",
+               "LastName":"Lee",
+               "FullName":"J.Lee",
+               "CountryISO":"KOR",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"88214",
                "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
+               "FirstName":"Ryann",
+               "LastName":"O\u0027Toole",
+               "FullName":"R.O\u0027Toole",
                "CountryISO":"USA",
-               "CountryName":"United States"
+               "PathImg":"/content/dam/waters/evc/players/player-88214.jpg",
+               "LinkToPage":"",
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"88308",
                "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
+               "FirstName":"Jenny",
+               "LastName":"Shin",
+               "FullName":"J.Shin",
+               "CountryISO":"KOR",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             }
-         ]
+         ],
+         "StatusHole":"",
+         "StartHour":"8h 25"
       },
-      {
-         "ID":"12",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
-               "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
-               "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
-               "CountryISO":"USA",
-               "CountryName":"United States"
-            },
-            {
-               "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
-            }
-         ]
-      },
-      {
+      {  
          "ID":"13",
-         "StartHour":"8h 45",
+         "StartHole":"1",
+         "AdjustedStartMinute":36,
          "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
+         "Players":[  
+            {  
+               "ID":"87662",
                "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
-               "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
+               "FirstName":"Mo",
+               "LastName":"Martin",
+               "FullName":"M.Martin",
                "CountryISO":"USA",
-               "CountryName":"United States"
+               "PathImg":"/content/dam/waters/evc/players/player-87662.jpg",
+               "LinkToPage":"",
+               "CountryName":""
             },
-            {
-               "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
-            }
-         ]
-      },
-      {
-         "ID":"14",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
-               "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
+            {  
+               "ID":"98192",
                "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
-               "CountryISO":"USA",
-               "CountryName":"United States"
+               "FirstName":"Su",
+               "LastName":"Oh",
+               "FullName":"S.Oh",
+               "CountryISO":"AUS",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"88290",
                "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
+               "FirstName":"Jodi",
+               "LastName":"Ewart Shadoff",
+               "FullName":"J.Ewart Shadoff",
+               "CountryISO":"ENG",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             }
-         ]
+         ],
+         "StatusHole":"",
+         "StartHour":"8h 36"
       },
-      {
+      {  
          "ID":"15",
-         "StartHour":"8h 45",
+         "StartHole":"1",
+         "AdjustedStartMinute":47,
          "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
+         "Players":[  
+            {  
+               "ID":"88275",
                "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
-               "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
+               "FirstName":"Jennifer",
+               "LastName":"Song",
+               "FullName":"J.Song",
                "CountryISO":"USA",
-               "CountryName":"United States"
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
-               "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
-            }
-         ]
-      },
-      {
-         "ID":"16",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
-               "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
+            {  
+               "ID":"87987",
                "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
-               "CountryISO":"USA",
-               "CountryName":"United States"
+               "FirstName":"Chella",
+               "LastName":"Choi",
+               "FullName":"C.Choi",
+               "CountryISO":"KOR",
+               "PathImg":"/content/dam/waters/evc/players/player-87987.jpg",
+               "LinkToPage":"",
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"88348",
                "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
+               "FirstName":"Jacqui",
+               "LastName":"Concolino",
+               "FullName":"J.Concolino",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             }
-         ]
+         ],
+         "StatusHole":"",
+         "StartHour":"8h 47"
       },
-      {
+      {  
          "ID":"17",
-         "StartHour":"8h 45",
+         "StartHole":"1",
+         "AdjustedStartMinute":58,
          "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
+         "Players":[  
+            {  
+               "ID":"80727",
                "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
-               "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
+               "FirstName":"Natalie",
+               "LastName":"Gulbis",
+               "FullName":"N.Gulbis",
                "CountryISO":"USA",
-               "CountryName":"United States"
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
-               "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
-            }
-         ]
-      },
-      {
-         "ID":"18",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
-               "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
+            {  
+               "ID":"98183",
                "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
-               "CountryISO":"USA",
-               "CountryName":"United States"
+               "FirstName":"Mi Hyang",
+               "LastName":"Lee",
+               "FullName":"M.Lee",
+               "CountryISO":"KOR",
+               "PathImg":"/content/dam/waters/evc/players/player-98183.jpg",
+               "LinkToPage":"",
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"98158",
                "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
+               "FirstName":"Peiyun",
+               "LastName":"Chien",
+               "FullName":"P.Chien",
+               "CountryISO":"TPE",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             }
-         ]
+         ],
+         "StatusHole":"",
+         "StartHour":"8h 58"
       },
-      {
+      {  
          "ID":"19",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
+         "StartHole":"1",
+         "AdjustedStartMinute":9,
+         "AdjustedStartHour":9,
+         "Players":[  
+            {  
+               "ID":"93328",
                "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
-               "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
+               "FirstName":"Brianna",
+               "LastName":"Do",
+               "FullName":"B.Do",
                "CountryISO":"USA",
-               "CountryName":"United States"
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"99114",
+               "OrderGroup":"2",
+               "FirstName":"Karolin",
+               "LastName":"Lampert",
+               "FullName":"K.Lampert",
+               "CountryISO":"GER",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"87945",
                "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
+               "FirstName":"Mi Jung",
+               "LastName":"Hur",
+               "FullName":"M.Hur",
+               "CountryISO":"KOR",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             }
-         ]
+         ],
+         "StatusHole":"",
+         "StartHour":"9h 9"
       },
-      {
+      {  
+         "ID":"2",
+         "StartHole":"10",
+         "AdjustedStartMinute":30,
+         "AdjustedStartHour":7,
+         "Players":[  
+            {  
+               "ID":"88260",
+               "OrderGroup":"1",
+               "FirstName":"Mina",
+               "LastName":"Harigae",
+               "FullName":"M.Harigae",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"82886",
+               "OrderGroup":"2",
+               "FirstName":"Sarah",
+               "LastName":"Kemp",
+               "FullName":"S.Kemp",
+               "CountryISO":"AUS",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98084",
+               "OrderGroup":"3",
+               "FirstName":"Amy",
+               "LastName":"Olson",
+               "FullName":"A.Olson",
+               "CountryISO":"USA",
+               "PathImg":"/content/dam/waters/evc/players/player-98084.jpg",
+               "LinkToPage":"",
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"7h 30"
+      },
+      {  
+         "ID":"4",
+         "StartHole":"10",
+         "AdjustedStartMinute":41,
+         "AdjustedStartHour":7,
+         "Players":[  
+            {  
+               "ID":"98608",
+               "OrderGroup":"1",
+               "FirstName":"Daniela",
+               "LastName":"Darquea",
+               "FullName":"D.Darquea",
+               "CountryISO":"ECU",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"82863",
+               "OrderGroup":"2",
+               "FirstName":"Lee-Anne",
+               "LastName":"Pace",
+               "FullName":"L.Pace",
+               "CountryISO":"RSA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98925",
+               "OrderGroup":"3",
+               "FirstName":"Meghan",
+               "LastName":"MacLaren",
+               "FullName":"M.MacLaren",
+               "CountryISO":"ENG",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"7h 41"
+      },
+      {  
+         "ID":"6",
+         "StartHole":"10",
+         "AdjustedStartMinute":52,
+         "AdjustedStartHour":7,
+         "Players":[  
+            {  
+               "ID":"98636",
+               "OrderGroup":"1",
+               "FirstName":"Albane",
+               "LastName":"Valenzuela",
+               "FullName":"A.Valenzuela",
+               "CountryISO":"SUI",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"88271",
+               "OrderGroup":"2",
+               "FirstName":"Tiffany",
+               "LastName":"Joh",
+               "FullName":"T.Joh",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98355",
+               "OrderGroup":"3",
+               "FirstName":"Celine",
+               "LastName":"Boutier",
+               "FullName":"C.Boutier",
+               "CountryISO":"FRA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"7h 52"
+      },
+      {  
+         "ID":"8",
+         "StartHole":"10",
+         "AdjustedStartMinute":3,
+         "AdjustedStartHour":8,
+         "Players":[  
+            {  
+               "ID":"99109",
+               "OrderGroup":"1",
+               "FirstName":"Jeongeun",
+               "LastName":"Lee6",
+               "FullName":"J.Lee6",
+               "CountryISO":"KOR",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98652",
+               "OrderGroup":"2",
+               "FirstName":"Aditi",
+               "LastName":"Ashok",
+               "FullName":"A.Ashok",
+               "CountryISO":"IND",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"88510",
+               "OrderGroup":"3",
+               "FirstName":"Lizette",
+               "LastName":"Salas",
+               "FullName":"L.Salas",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"8h 3"
+      },
+      {  
+         "ID":"10",
+         "StartHole":"10",
+         "AdjustedStartMinute":14,
+         "AdjustedStartHour":8,
+         "Players":[  
+            {  
+               "ID":"98184",
+               "OrderGroup":"1",
+               "FirstName":"Lexi",
+               "LastName":"Thompson",
+               "FullName":"L.Thompson",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98267",
+               "OrderGroup":"2",
+               "FirstName":"Brooke M.",
+               "LastName":"Henderson",
+               "FullName":"B.Henderson",
+               "CountryISO":"CAN",
+               "PathImg":"/content/dam/waters/evc/players/player-98267.jpg",
+               "LinkToPage":"",
+               "CountryName":""
+            },
+            {  
+               "ID":"98193",
+               "OrderGroup":"3",
+               "FirstName":"Minjee",
+               "LastName":"Lee",
+               "FullName":"M.Lee",
+               "CountryISO":"AUS",
+               "PathImg":"/content/dam/waters/evc/players/player-98193.jpg",
+               "LinkToPage":"",
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"8h 14"
+      },
+      {  
+         "ID":"12",
+         "StartHole":"10",
+         "AdjustedStartMinute":25,
+         "AdjustedStartHour":8,
+         "Players":[  
+            {  
+               "ID":"88109",
+               "OrderGroup":"1",
+               "FirstName":"Anna",
+               "LastName":"Nordqvist",
+               "FullName":"A.Nordqvist",
+               "CountryISO":"SWE",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98001",
+               "OrderGroup":"2",
+               "FirstName":"Moriya",
+               "LastName":"Jutanugarn",
+               "FullName":"M.Jutanugarn",
+               "CountryISO":"THA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98830",
+               "OrderGroup":"3",
+               "FirstName":"Nasa",
+               "LastName":"Hataoka",
+               "FullName":"N.Hataoka",
+               "CountryISO":"JPN",
+               "PathImg":"/content/dam/waters/evc/players/player-98830.jpg",
+               "LinkToPage":"",
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"8h 25"
+      },
+      {  
+         "ID":"14",
+         "StartHole":"10",
+         "AdjustedStartMinute":36,
+         "AdjustedStartHour":8,
+         "Players":[  
+            {  
+               "ID":"93254",
+               "OrderGroup":"1",
+               "FirstName":"Carlota",
+               "LastName":"Ciganda",
+               "FullName":"C.Ciganda",
+               "CountryISO":"ESP",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"82874",
+               "OrderGroup":"2",
+               "FirstName":"Shanshan",
+               "LastName":"Feng",
+               "FullName":"S.Feng",
+               "CountryISO":"CHN",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98372",
+               "OrderGroup":"3",
+               "FirstName":"In Gee",
+               "LastName":"Chun",
+               "FullName":"I.Chun",
+               "CountryISO":"KOR",
+               "PathImg":"/content/dam/waters/evc/players/player-98372.jpg",
+               "LinkToPage":"",
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"8h 36"
+      },
+      {  
+         "ID":"16",
+         "StartHole":"10",
+         "AdjustedStartMinute":47,
+         "AdjustedStartHour":8,
+         "Players":[  
+            {  
+               "ID":"81901",
+               "OrderGroup":"1",
+               "FirstName":"Angela",
+               "LastName":"Stanford",
+               "FullName":"A.Stanford",
+               "CountryISO":"USA",
+               "PathImg":"/content/dam/waters/evc/players/player-81901.jpg",
+               "LinkToPage":"",
+               "CountryName":""
+            },
+            {  
+               "ID":"82901",
+               "OrderGroup":"2",
+               "FirstName":"Amy",
+               "LastName":"Yang",
+               "FullName":"A.Yang",
+               "CountryISO":"KOR",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98350",
+               "OrderGroup":"3",
+               "FirstName":"Nelly",
+               "LastName":"Korda",
+               "FullName":"N.Korda",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"8h 47"
+      },
+      {  
+         "ID":"18",
+         "StartHole":"10",
+         "AdjustedStartMinute":58,
+         "AdjustedStartHour":8,
+         "Players":[  
+            {  
+               "ID":"82630",
+               "OrderGroup":"1",
+               "FirstName":"Laura",
+               "LastName":"Davies",
+               "FullName":"L.Davies",
+               "CountryISO":"ENG",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"81313",
+               "OrderGroup":"2",
+               "FirstName":"Catriona",
+               "LastName":"Matthew",
+               "FullName":"C.Matthew",
+               "CountryISO":"SCO",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"93651",
+               "OrderGroup":"3",
+               "FirstName":"Caroline",
+               "LastName":"Hedwall",
+               "FullName":"C.Hedwall",
+               "CountryISO":"SWE",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"8h 58"
+      },
+      {  
          "ID":"20",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
+         "StartHole":"10",
+         "AdjustedStartMinute":9,
+         "AdjustedStartHour":9,
+         "Players":[  
+            {  
+               "ID":"87888",
                "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
-               "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
+               "FirstName":"Sandra",
+               "LastName":"Changkija",
+               "FullName":"S.Changkija",
                "CountryISO":"USA",
-               "CountryName":"United States"
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"98618",
+               "OrderGroup":"2",
+               "FirstName":"Nanna",
+               "LastName":"Koerstz Madsen",
+               "FullName":"N.Koerstz Madsen",
+               "CountryISO":"DEN",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"88815",
                "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
+               "FirstName":"Lauren",
+               "LastName":"Coughlin",
+               "FullName":"L.Coughlin",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             }
-         ]
+         ],
+         "StatusHole":"",
+         "StartHour":"9h 9"
       },
-      {
+      {  
          "ID":"21",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
+         "StartHole":"1",
+         "AdjustedStartMinute":15,
+         "AdjustedStartHour":12,
+         "Players":[  
+            {  
+               "ID":"53696",
                "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
+               "FirstName":"Gaby",
+               "LastName":"Lopez",
+               "FullName":"G.Lopez",
+               "CountryISO":"MEX",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"98642",
                "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
-               "CountryISO":"USA",
-               "CountryName":"United States"
+               "FirstName":"Madelene",
+               "LastName":"Sagstrom",
+               "FullName":"M.Sagstrom",
+               "CountryISO":"SWE",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"99174",
                "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
+               "FirstName":"Maria",
+               "LastName":"Torres",
+               "FullName":"M.Torres",
+               "CountryISO":"PUR",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             }
-         ]
+         ],
+         "StatusHole":"",
+         "StartHour":"12h 15"
       },
-      {
-         "ID":"22",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
-               "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
-               "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
-               "CountryISO":"USA",
-               "CountryName":"United States"
-            },
-            {
-               "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
-            }
-         ]
-      },
-      {
+      {  
          "ID":"23",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
+         "StartHole":"1",
+         "AdjustedStartMinute":26,
+         "AdjustedStartHour":12,
+         "Players":[  
+            {  
+               "ID":"80149",
                "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
-               "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
+               "FirstName":"Kris",
+               "LastName":"Tamulis",
+               "FullName":"K.Tamulis",
                "CountryISO":"USA",
-               "CountryName":"United States"
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
-               "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
-            }
-         ]
-      },
-      {
-         "ID":"24",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
-               "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
+            {  
+               "ID":"88113",
                "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
-               "CountryISO":"USA",
-               "CountryName":"United States"
+               "FirstName":"Beatriz",
+               "LastName":"Recari",
+               "FullName":"B.Recari",
+               "CountryISO":"ESP",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             },
-            {
+            {  
+               "ID":"82827",
                "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
-               "CountryISO":"FRA",
-               "CountryName":"France"
+               "FirstName":"Morgan",
+               "LastName":"Pressel",
+               "FullName":"M.Pressel",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             }
-         ]
+         ],
+         "StatusHole":"",
+         "StartHour":"12h 26"
       },
-      {
+      {  
          "ID":"25",
-         "StartHour":"8h 45",
-         "AdjustedStartHour":8,
-         "AdjustedStartMinute":45,
-         "StartHole":4,
-         "StatusHole":"F",
-         "Players":[
-            {
+         "StartHole":"1",
+         "AdjustedStartMinute":37,
+         "AdjustedStartHour":12,
+         "Players":[  
+            {  
+               "ID":"99537",
                "OrderGroup":"1",
-               "ID":2345671,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Kim",
-               "LastName":"Lampert",
-               "FullName":"K. Lampert",
-               "CountryISO":"GER",
-               "CountryName":"Germany"
-            },
-            {
-               "OrderGroup":"2",
-               "ID":2345541,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Paola",
-               "LastName":"Thana",
-               "FullName":"P. Thana",
-               "CountryISO":"USA",
-               "CountryName":"United States"
-            },
-            {
-               "OrderGroup":"3",
-               "ID":1243894,
-               "PathImg":"/DAM/folderId/sourcefile.jpg",
-               "LinkToPage":"/player/ID",
-               "FirstName":"Carla",
-               "LastName":"Chevalier",
-               "FullName":"C. Chevalier",
+               "FirstName":"Astrid",
+               "LastName":"Vayson de Pradenne",
+               "FullName":"A.Vayson de Pradenne",
                "CountryISO":"FRA",
-               "CountryName":"France"
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"93391",
+               "OrderGroup":"2",
+               "FirstName":"Ayako",
+               "LastName":"Uehara",
+               "FullName":"A.Uehara",
+               "CountryISO":"JPN",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"80130",
+               "OrderGroup":"3",
+               "FirstName":"Paula",
+               "LastName":"Creamer",
+               "FullName":"P.Creamer",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
             }
-         ]
+         ],
+         "StatusHole":"",
+         "StartHour":"12h 37"
+      },
+      {  
+         "ID":"27",
+         "StartHole":"1",
+         "AdjustedStartMinute":48,
+         "AdjustedStartHour":12,
+         "Players":[  
+            {  
+               "ID":"81106",
+               "OrderGroup":"1",
+               "FirstName":"Cristie",
+               "LastName":"Kerr",
+               "FullName":"C.Kerr",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98109",
+               "OrderGroup":"2",
+               "FirstName":"Lydia",
+               "LastName":"Ko",
+               "FullName":"L.Ko",
+               "CountryISO":"NZL",
+               "PathImg":"/content/dam/waters/evc/players/player-98109.jpg",
+               "LinkToPage":"",
+               "CountryName":""
+            },
+            {  
+               "ID":"98236",
+               "OrderGroup":"3",
+               "FirstName":"Hyo Joo",
+               "LastName":"Kim",
+               "FullName":"H.Kim",
+               "CountryISO":"KOR",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"12h 48"
+      },
+      {  
+         "ID":"29",
+         "StartHole":"1",
+         "AdjustedStartMinute":59,
+         "AdjustedStartHour":12,
+         "Players":[  
+            {  
+               "ID":"93475",
+               "OrderGroup":"1",
+               "FirstName":"Ariya",
+               "LastName":"Jutanugarn",
+               "FullName":"A.Jutanugarn",
+               "CountryISO":"THA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98648",
+               "OrderGroup":"2",
+               "FirstName":"Sung Hyun",
+               "LastName":"Park",
+               "FullName":"S.Park",
+               "CountryISO":"KOR",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98334",
+               "OrderGroup":"3",
+               "FirstName":"Georgia",
+               "LastName":"Hall",
+               "FullName":"G.Hall",
+               "CountryISO":"ENG",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"12h 59"
+      },
+      {  
+         "ID":"31",
+         "StartHole":"1",
+         "AdjustedStartMinute":10,
+         "AdjustedStartHour":13,
+         "Players":[  
+            {  
+               "ID":"88213",
+               "OrderGroup":"1",
+               "FirstName":"Pernilla",
+               "LastName":"Lindberg",
+               "FullName":"P.Lindberg",
+               "CountryISO":"SWE",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"82866",
+               "OrderGroup":"2",
+               "FirstName":"Inbee",
+               "LastName":"Park",
+               "FullName":"I.Park",
+               "CountryISO":"KOR",
+               "PathImg":"/content/dam/waters/evc/players/player-82866.jpg",
+               "LinkToPage":"",
+               "CountryName":""
+            },
+            {  
+               "ID":"98006",
+               "OrderGroup":"3",
+               "FirstName":"So Yeon",
+               "LastName":"Ryu",
+               "FullName":"S.Ryu",
+               "CountryISO":"KOR",
+               "PathImg":"/content/dam/waters/evc/players/player-98006.jpg",
+               "LinkToPage":"",
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"13h 10"
+      },
+      {  
+         "ID":"33",
+         "StartHole":"1",
+         "AdjustedStartMinute":21,
+         "AdjustedStartHour":13,
+         "Players":[  
+            {  
+               "ID":"88399",
+               "OrderGroup":"1",
+               "FirstName":"Jessica",
+               "LastName":"Korda",
+               "FullName":"J.Korda",
+               "CountryISO":"USA",
+               "PathImg":"/content/dam/waters/evc/players/player-88399.jpg",
+               "LinkToPage":"",
+               "CountryName":""
+            },
+            {  
+               "ID":"80142",
+               "OrderGroup":"2",
+               "FirstName":"Brittany",
+               "LastName":"Lincicome",
+               "FullName":"B.Lincicome",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98371",
+               "OrderGroup":"3",
+               "FirstName":"Sei Young",
+               "LastName":"Kim",
+               "FullName":"S.Kim",
+               "CountryISO":"KOR",
+               "PathImg":"/content/dam/waters/evc/players/player-98371.jpg",
+               "LinkToPage":"",
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"13h 21"
+      },
+      {  
+         "ID":"35",
+         "StartHole":"1",
+         "AdjustedStartMinute":32,
+         "AdjustedStartHour":13,
+         "Players":[  
+            {  
+               "ID":"98215",
+               "OrderGroup":"1",
+               "FirstName":"Charley",
+               "LastName":"Hull",
+               "FullName":"C.Hull",
+               "CountryISO":"ENG",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98455",
+               "OrderGroup":"2",
+               "FirstName":"Jin Young",
+               "LastName":"Ko",
+               "FullName":"J.Ko",
+               "CountryISO":"KOR",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98263",
+               "OrderGroup":"3",
+               "FirstName":"Angel",
+               "LastName":"Yin",
+               "FullName":"A.Yin",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"13h 32"
+      },
+      {  
+         "ID":"37",
+         "StartHole":"1",
+         "AdjustedStartMinute":43,
+         "AdjustedStartHour":13,
+         "Players":[  
+            {  
+               "ID":"88543",
+               "OrderGroup":"1",
+               "FirstName":"Thidapa",
+               "LastName":"Suwannapura",
+               "FullName":"T.Suwannapura",
+               "CountryISO":"THA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98239",
+               "OrderGroup":"2",
+               "FirstName":"Annie",
+               "LastName":"Park",
+               "FullName":"A.Park",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98011",
+               "OrderGroup":"3",
+               "FirstName":"Marina",
+               "LastName":"Alex",
+               "FullName":"M.Alex",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"13h 43"
+      },
+      {  
+         "ID":"39",
+         "StartHole":"1",
+         "AdjustedStartMinute":54,
+         "AdjustedStartHour":13,
+         "Players":[  
+            {  
+               "ID":"99104",
+               "OrderGroup":"1",
+               "FirstName":"Rachel",
+               "LastName":"Heck",
+               "FullName":"R.Heck",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98858",
+               "OrderGroup":"2",
+               "FirstName":"Robynn",
+               "LastName":"Ree",
+               "FullName":"R.Ree",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98668",
+               "OrderGroup":"3",
+               "FirstName":"Benyapa",
+               "LastName":"Niphatsophon",
+               "FullName":"B.Niphatsophon",
+               "CountryISO":"THA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"13h 54"
+      },
+      {  
+         "ID":"22",
+         "StartHole":"10",
+         "AdjustedStartMinute":15,
+         "AdjustedStartHour":12,
+         "Players":[  
+            {  
+               "ID":"98440",
+               "OrderGroup":"1",
+               "FirstName":"Ally",
+               "LastName":"McDonald",
+               "FullName":"A.McDonald",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"82892",
+               "OrderGroup":"2",
+               "FirstName":"Hee Young",
+               "LastName":"Park",
+               "FullName":"H.Park",
+               "CountryISO":"KOR",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98216",
+               "OrderGroup":"3",
+               "FirstName":"Jaye Marie",
+               "LastName":"Green",
+               "FullName":"J.Green",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"12h 15"
+      },
+      {  
+         "ID":"24",
+         "StartHole":"10",
+         "AdjustedStartMinute":26,
+         "AdjustedStartHour":12,
+         "Players":[  
+            {  
+               "ID":"99253",
+               "OrderGroup":"1",
+               "FirstName":"Camille",
+               "LastName":"Chevalier",
+               "FullName":"C.Chevalier",
+               "CountryISO":"FRA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"80850",
+               "OrderGroup":"2",
+               "FirstName":"Katherine",
+               "LastName":"Kirk",
+               "FullName":"K.Kirk",
+               "CountryISO":"AUS",
+               "PathImg":"/content/dam/waters/evc/players/player-80850.jpg",
+               "LinkToPage":"",
+               "CountryName":""
+            },
+            {  
+               "ID":"98095",
+               "OrderGroup":"3",
+               "FirstName":"Mariah",
+               "LastName":"Stackhouse",
+               "FullName":"M.Stackhouse",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"12h 26"
+      },
+      {  
+         "ID":"26",
+         "StartHole":"10",
+         "AdjustedStartMinute":37,
+         "AdjustedStartHour":12,
+         "Players":[  
+            {  
+               "ID":"98356",
+               "OrderGroup":"1",
+               "FirstName":"Klara",
+               "LastName":"Spilkova",
+               "FullName":"K.Spilkova",
+               "CountryISO":"CZE",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"82819",
+               "OrderGroup":"2",
+               "FirstName":"Brittany",
+               "LastName":"Lang",
+               "FullName":"B.Lang",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"82873",
+               "OrderGroup":"3",
+               "FirstName":"Sandra",
+               "LastName":"Gal",
+               "FullName":"S.Gal",
+               "CountryISO":"GER",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"12h 37"
+      },
+      {  
+         "ID":"28",
+         "StartHole":"10",
+         "AdjustedStartMinute":48,
+         "AdjustedStartHour":12,
+         "Players":[  
+            {  
+               "ID":"88561",
+               "OrderGroup":"1",
+               "FirstName":"Danielle",
+               "LastName":"Kang",
+               "FullName":"D.Kang",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98119",
+               "OrderGroup":"2",
+               "FirstName":"Caroline",
+               "LastName":"Masson",
+               "FullName":"C.Masson",
+               "CountryISO":"GER",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"88110",
+               "OrderGroup":"3",
+               "FirstName":"Pornanong",
+               "LastName":"Phatlum",
+               "FullName":"P.Phatlum",
+               "CountryISO":"THA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"12h 48"
+      },
+      {  
+         "ID":"30",
+         "StartHole":"10",
+         "AdjustedStartMinute":59,
+         "AdjustedStartHour":12,
+         "Players":[  
+            {  
+               "ID":"98290",
+               "OrderGroup":"1",
+               "FirstName":"Wei-Ling",
+               "LastName":"Hsu",
+               "FullName":"W.Hsu",
+               "CountryISO":"TPE",
+               "PathImg":"/content/dam/waters/evc/players/player-98290.jpg",
+               "LinkToPage":"",
+               "CountryName":""
+            },
+            {  
+               "ID":"98010",
+               "OrderGroup":"2",
+               "FirstName":"Brittany",
+               "LastName":"Altomare",
+               "FullName":"B.Altomare",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"88114",
+               "OrderGroup":"3",
+               "FirstName":"Azahara",
+               "LastName":"Munoz",
+               "FullName":"A.Munoz",
+               "CountryISO":"ESP",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"12h 59"
+      },
+      {  
+         "ID":"32",
+         "StartHole":"10",
+         "AdjustedStartMinute":10,
+         "AdjustedStartHour":13,
+         "Players":[  
+            {  
+               "ID":"98482",
+               "OrderGroup":"1",
+               "FirstName":"Sherman",
+               "LastName":"Santiwiwatthanaphong",
+               "FullName":"S.Santiwiwatthanaphong",
+               "CountryISO":"THA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98359",
+               "OrderGroup":"2",
+               "FirstName":"Dani",
+               "LastName":"Holmqvist",
+               "FullName":"D.Holmqvist",
+               "CountryISO":"SWE",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"93184",
+               "OrderGroup":"3",
+               "FirstName":"Sakura",
+               "LastName":"Yokomine",
+               "FullName":"S.Yokomine",
+               "CountryISO":"JPN",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"13h 10"
+      },
+      {  
+         "ID":"34",
+         "StartHole":"10",
+         "AdjustedStartMinute":21,
+         "AdjustedStartHour":13,
+         "Players":[  
+            {  
+               "ID":"98244",
+               "OrderGroup":"1",
+               "FirstName":"Megan",
+               "LastName":"Khang",
+               "FullName":"M.Khang",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98279",
+               "OrderGroup":"2",
+               "FirstName":"Bronte",
+               "LastName":"Law",
+               "FullName":"B.Law",
+               "CountryISO":"ENG",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98096",
+               "OrderGroup":"3",
+               "FirstName":"Emma",
+               "LastName":"Talley",
+               "FullName":"E.Talley",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"13h 21"
+      },
+      {  
+         "ID":"36",
+         "StartHole":"10",
+         "AdjustedStartMinute":32,
+         "AdjustedStartHour":13,
+         "Players":[  
+            {  
+               "ID":"82847",
+               "OrderGroup":"1",
+               "FirstName":"Eun-Hee",
+               "LastName":"Ji",
+               "FullName":"E.Ji",
+               "CountryISO":"KOR",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98213",
+               "OrderGroup":"2",
+               "FirstName":"Austin",
+               "LastName":"Ernst",
+               "FullName":"A.Ernst",
+               "CountryISO":"USA",
+               "PathImg":"/content/dam/waters/evc/players/player-98213.jpg",
+               "LinkToPage":"",
+               "CountryName":""
+            },
+            {  
+               "ID":"93411",
+               "OrderGroup":"3",
+               "FirstName":"Lindy",
+               "LastName":"Duncan",
+               "FullName":"L.Duncan",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"13h 32"
+      },
+      {  
+         "ID":"38",
+         "StartHole":"10",
+         "AdjustedStartMinute":43,
+         "AdjustedStartHour":13,
+         "Players":[  
+            {  
+               "ID":"98867",
+               "OrderGroup":"1",
+               "FirstName":"Alana",
+               "LastName":"Uriell",
+               "FullName":"A.Uriell",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98489",
+               "OrderGroup":"2",
+               "FirstName":"Celine",
+               "LastName":"Herbin",
+               "FullName":"C.Herbin",
+               "CountryISO":"FRA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"88556",
+               "OrderGroup":"3",
+               "FirstName":"Cydney",
+               "LastName":"Clanton",
+               "FullName":"C.Clanton",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"13h 43"
+      },
+      {  
+         "ID":"40",
+         "StartHole":"10",
+         "AdjustedStartMinute":54,
+         "AdjustedStartHour":13,
+         "Players":[  
+            {  
+               "ID":"98444",
+               "OrderGroup":"1",
+               "FirstName":"Nicole",
+               "LastName":"Broch Larsen",
+               "FullName":"N.Broch Larsen",
+               "CountryISO":"DEN",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"98091",
+               "OrderGroup":"2",
+               "FirstName":"Brittany",
+               "LastName":"Marchand",
+               "FullName":"B.Marchand",
+               "CountryISO":"CAN",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            },
+            {  
+               "ID":"81112",
+               "OrderGroup":"3",
+               "FirstName":"Christina",
+               "LastName":"Kim",
+               "FullName":"C.Kim",
+               "CountryISO":"USA",
+               "PathImg":null,
+               "LinkToPage":null,
+               "CountryName":""
+            }
+         ],
+         "StatusHole":"",
+         "StartHour":"13h 54"
       }
    ]
 }
