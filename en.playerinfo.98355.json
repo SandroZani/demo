@@ -4,7 +4,7 @@
    "FirstName":"Elisa",
    "LastName":"Citterio",
    "FullName":"E. Citterio",
-   "CountryISO": 'ITA',
+   "CountryISO": "ITA",
    "CountryName":"Italy",
    "OldWinner":"true",
    "PathImg":"/DAMpath/folderId/sourcefile.jpg",
