@@ -14,5 +14,6 @@
    "Round":"-3",
    "Age":"41",
    "StartCareer":"2000",
-   "Participations":"12"
+   "Participations":"12",
+   "Displayinfo": true
 }
