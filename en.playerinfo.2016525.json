@@ -7,7 +7,7 @@
    "FullName":"S. Zani",
    "CountryISO":"FRA",
    "CountryName":"France",
-   "OldWinner":"false",
+   "OldWinner":false,
    "PathImg":"/DAMpath/folderId/sourcefile.jpg",
    "Pos":"T2",
    "ToPar":"-12",
