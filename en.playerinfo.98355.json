@@ -12,8 +12,8 @@
    "ToPar":"-12",
    "Thru":"F",
    "Round":"-3",
-   "Age":"41",
-   "StartCareer":"2000",
+   "Age":"null",
+   "StartCareer":null,
    "Participations":"12",
    "Displayinfo": true
 }
